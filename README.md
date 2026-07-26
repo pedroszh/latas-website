@@ -1,6 +1,6 @@
-# AERO — Limited Can Series
+# AERO — Experiência Interativa de Produto
 
-Landing page interativa de uma lata de bebida em três variações de marca: **Adidas**, **Nike** e **Puma**.
+Landing page interativa conceitual de uma lata de bebida, desenvolvida como projeto independente de estudo e portfólio, apresentada em três variações visuais inspiradas em marcas conhecidas: Adidas, Nike e Puma.
 
 A experiência ocupa 100% da viewport, não tem scroll, e a interação principal é girar a lata horizontalmente para revelar cada rótulo. Fundo, título gigante, logos e elementos decorativos se movem de forma coordenada durante a troca.
 
